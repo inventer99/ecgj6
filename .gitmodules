@@ -1,0 +1,9 @@
+[submodule "deps/rxcpp"]
+	path = deps/rxcpp
+	url = git@github.com:ReactiveX/RxCpp.git
+[submodule "deps/raylib"]
+	path = deps/raylib
+	url = git@github.com:raysan5/raylib.git
+[submodule "deps/raygui"]
+	path = deps/raygui
+	url = git@github.com:raysan5/raygui.git
